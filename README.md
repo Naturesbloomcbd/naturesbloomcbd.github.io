@@ -48,4 +48,3 @@
 <p>Nature's Bloom CBD focuses on high-quality, third-party tested hemp products with clean ingredients, real potency, and transparent labeling. Our mission is to deliver effective CBD that people can trust.</p>
 
 <p><strong>Website:</strong> <a href="https://www.naturesbloom.net" target="_blank">https://www.naturesbloom.net</a></p>
-google-site-verification: google4e4591e6be63b63d.html
